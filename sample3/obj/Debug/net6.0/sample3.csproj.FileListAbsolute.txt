@@ -1,0 +1,15 @@
+E:\lean\sample3\bin\Debug\net6.0\sample3.exe
+E:\lean\sample3\bin\Debug\net6.0\sample3.deps.json
+E:\lean\sample3\bin\Debug\net6.0\sample3.runtimeconfig.json
+E:\lean\sample3\bin\Debug\net6.0\sample3.dll
+E:\lean\sample3\bin\Debug\net6.0\sample3.pdb
+E:\lean\sample3\obj\Debug\net6.0\sample3.csproj.AssemblyReference.cache
+E:\lean\sample3\obj\Debug\net6.0\sample3.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean\sample3\obj\Debug\net6.0\sample3.AssemblyInfoInputs.cache
+E:\lean\sample3\obj\Debug\net6.0\sample3.AssemblyInfo.cs
+E:\lean\sample3\obj\Debug\net6.0\sample3.csproj.CoreCompileInputs.cache
+E:\lean\sample3\obj\Debug\net6.0\sample3.dll
+E:\lean\sample3\obj\Debug\net6.0\refint\sample3.dll
+E:\lean\sample3\obj\Debug\net6.0\sample3.pdb
+E:\lean\sample3\obj\Debug\net6.0\sample3.genruntimeconfig.cache
+E:\lean\sample3\obj\Debug\net6.0\ref\sample3.dll
